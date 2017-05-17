@@ -1,0 +1,20 @@
+{
+  "name": "my first bootstrap project",
+  "homepage": "https://github.com/MarisolJaimes/projectone",
+  "authors": [
+    "MarisolJaimes <marisoljaimesrdz@gmail.com>"
+  ],
+  "description": "las saladitas",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
